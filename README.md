@@ -8,26 +8,18 @@ possible to create a new one and change its properties values.
 
 ## Requirements
 
-- Is necessary to run this project
+- To run this project, is necessary:
     - [**Java 8**](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
     
 ### Running in your machine:
 
-Running by command line on linux O.S
-    - java 
+Running thw following code by command line:
+     ```java MakeSingleton```
 
 
 ## Contributing
 
-Requesitos para contribuir no projeto.
-
-- Feature branch and Git Pull Request
-
-
-## for supporting
-
-mail-me: 
-
+Everyone can contribute, by feature branch and Pull Request.
 
 ## License
 
