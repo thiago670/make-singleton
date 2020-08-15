@@ -7,6 +7,8 @@ public class MakeSingleton {
 
         if (!(myObject1.equals(myObject2))) {
             throw new AssertionError("The objects 1 and 2 are different!");
+        }else{
+            System.out.println("The objects 1 and 2 are equal");
         }
     }
 }
