@@ -1,6 +1,5 @@
-public class MyObject {
+public final class MyObject {
 
-    private Object myPropertie;
     private static MyObject currentObject = null;
 
     private MyObject() {
@@ -14,11 +13,4 @@ public class MyObject {
         }
     }
 
-    public Object getMyPropertie() {
-        return myPropertie;
-    }
-
-    public void setMyPropertie(Object myPropertie) {
-        this.myPropertie = myPropertie;
-    }
 }
