@@ -2,7 +2,7 @@
 
 This project simple show singleton's idea, in wich you have only one instance of this object.
 
-##Where I can use it?
+## Where I can use it?
 Imagine the following situation. The "Config.class" of my project can't have more than one instance, otherwise is 
 possible to create a new one and change its properties values.  
 
